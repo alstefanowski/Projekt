@@ -1,0 +1,4 @@
+Aby skompliowac: gcc -pthread -o projekt projekt.c
+wyslanie wiadomosci: w terminalu piszesz: send <numer portu uzytkownika> <wiadomosc>
+wysylanie wiadomosci do wszystkich: send all <wiadomosc>
+Trzeba zrobic makefile ktory czysci wszystko po zakonczeniu programu:P

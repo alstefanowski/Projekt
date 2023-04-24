@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "wait.h": "c",
+            "cerrno": "c",
+            "stdio.h": "c",
+            "string.h": "c",
+            "types.h": "c",
+            "limits.h": "c",
+            "system_error": "c",
+            "unistd.h": "c",
+            "time.h": "c",
+            "stat.h": "c"
+        }
+    }
+}
